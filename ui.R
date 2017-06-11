@@ -1,3 +1,5 @@
+#data pulled from https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset
+
 library(shiny)
 
 # Define UI for application that draws a histogram

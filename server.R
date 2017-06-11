@@ -5,7 +5,7 @@
 # Find out more about building applications with Shiny here:
 # 
 #    http://shiny.rstudio.com/
-#
+# data pulled from https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset 
 
 setwd("D:/Bike-Sharing-Dataset")
 bikeData <- read.csv('day.csv')
